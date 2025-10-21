@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Agency",
+  "description": "An interactive real-time AI assistant using Google Gemini's multimodal capabilities to analyze live camera and microphone input, providing intelligent voice responses.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
